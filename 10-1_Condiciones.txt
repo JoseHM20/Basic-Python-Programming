@@ -1,0 +1,25 @@
+Una condicion es una forma en la que el programa puede tomar mas de un camino
+haciendo que se pueda llegar a mas resultado y sin recibir tantos errores
+
+Para ello se utilizan las siguientes condiciones:
+
+True = Verdadero
+False = falso
+== = Ogual que
+!= = Diferente de
+> = Mayor que
+< = Menor que
+>= = Mayor o igual que
+<= = Menor o igual que
+
+Ejemplo 1:
+    Saldo actual: 500
+    Saldo necesario: 600
+
+    Si el saldo actual es MAYOR O IGUAL QUE 600:
+        Se paga el servicio de internet
+    Entonces si el saldo actual es MENOR O IGUAL QUE 600:
+        El saldo es insuficiente
+    Otra cosa:
+        No puede procesar el pago
+

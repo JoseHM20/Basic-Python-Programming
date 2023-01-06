@@ -1,0 +1,5 @@
+Cadenas: nombre = "Carlos"
+Enteros: años = 10
+Flotantes: Estatura = 1.75
+           Numero PI = 3.141592
+Booleano: Cuenta pagada = True / False
